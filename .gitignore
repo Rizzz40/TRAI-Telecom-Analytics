@@ -1,0 +1,24 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office temporary / lock files
+~$*
+*.tmp
+
+# Power BI temporary files
+*.pbit.tmp
+*.pbix.tmp
+
+# Editor / IDE files
+.vscode/
+.idea/
+
+# Local backup files
+*.bak
+*.backup
+
+# Internal folders excluded from the public repository
+02_Working_Data/
+09_Telecom_Subscriptions/
