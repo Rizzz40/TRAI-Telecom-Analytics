@@ -146,6 +146,7 @@ treated as a formal regulatory threshold in this project.
 
 ## Public Repository Structure
 
+
 TRAI-Telecom-Analytics
 ├── 01_Raw_Data
 │   └── README.md
@@ -163,6 +164,7 @@ TRAI-Telecom-Analytics
 │   └── recruiter-facing case study
 ├── README.md
 └── .gitignore
+
 
 Internal working material and source files excluded from the final
 analytical model are intentionally omitted from the public repository.
