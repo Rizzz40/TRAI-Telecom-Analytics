@@ -146,25 +146,30 @@ treated as a formal regulatory threshold in this project.
 
 ## Public Repository Structure
 
-
 TRAI-Telecom-Analytics
 ├── 01_Raw_Data
 │   └── README.md
+
 ├── 03_SQL
 │   └── final SQL script
+
 ├── 04_Excel
 │   └── final analytical workbook
+
 ├── 05_PowerBI
 │   └── final Power BI report
+
 ├── 06_Analysis
 │   └── analysis report
+
 ├── 07_Documentation
 │   └── technical/project documentation
+
 ├── 08_Final_Portfolio
 │   └── recruiter-facing case study
+
 ├── README.md
 └── .gitignore
-
 
 Internal working material and source files excluded from the final
 analytical model are intentionally omitted from the public repository.
