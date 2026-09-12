@@ -148,11 +148,11 @@ treated as a formal regulatory threshold in this project.
 
 TRAI-Telecom-Analytics
 ├── 01_Raw_Data
+
 │   └── README.md
-
 ├── 03_SQL
-│   └── final SQL script
 
+│   └── final SQL script
 ├── 04_Excel
 │   └── final analytical workbook
 
